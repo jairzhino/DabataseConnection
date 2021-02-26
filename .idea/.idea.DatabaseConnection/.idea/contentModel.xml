@@ -27,8 +27,6 @@
           <e p="Phone.cs" t="Include" />
         </e>
         <e p="PersonDatabase.db" t="Include" />
-        <e p="PersonDatabase.db-shm" t="Include" />
-        <e p="PersonDatabase.db-wal" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
