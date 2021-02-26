@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf62395e-0812-4ca5-bc3a-3769be167bb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Business/BPerson.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Business/BPhone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Business/DatabaseContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Controllers/PersonController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Controllers/PhoneController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Models/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatabaseConnection/Models/Phone.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatabaseConnection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatabaseConnection/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,7 @@
       <option value="$PROJECT_DIR$/DatabaseConnection/Controllers/PersonController.cs" />
       <option value="$PROJECT_DIR$/DatabaseConnection/Business/BPhone.cs" />
       <option value="$PROJECT_DIR$/DatabaseConnection/Controllers/PhoneController.cs" />
+      <option value="$PROJECT_DIR$/.gitignore" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oJ3pw3BNGZGTEQFsDTVuHvjRL1" />
@@ -94,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612991056971</updated>
       <workItem from="1612991069981" duration="4745000" />
-      <workItem from="1614363955269" duration="1245000" />
+      <workItem from="1614363955269" duration="2017000" />
     </task>
     <servers />
   </component>
