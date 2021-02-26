@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf62395e-0812-4ca5-bc3a-3769be167bb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatabaseConnection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatabaseConnection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,7 @@
       <option value="$PROJECT_DIR$/DatabaseConnection/Business/BPhone.cs" />
       <option value="$PROJECT_DIR$/DatabaseConnection/Controllers/PhoneController.cs" />
       <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/README.md" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oJ3pw3BNGZGTEQFsDTVuHvjRL1" />
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612991056971</updated>
       <workItem from="1612991069981" duration="4745000" />
-      <workItem from="1614363955269" duration="2017000" />
+      <workItem from="1614363955269" duration="3474000" />
     </task>
     <servers />
   </component>
